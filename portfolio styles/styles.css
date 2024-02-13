@@ -117,3 +117,33 @@ main{
         font-size: 20px;
         color: #474747;
     }
+    /* what i do */
+    .what-i-do{
+        display: flex;
+        gap: 24px;
+        margin-top: 170px;
+
+    }
+    .what-do{
+        margin-top: 124px;
+    }
+    .what-i-card{
+        background: #FFFFFF;
+        box-shadow: 0px 6px 50px rgb(0, 0, 0, 0.06);
+        border-radius: 5px;
+        padding: 30px;
+    }
+    .skill-title{
+        font-weight: 700;
+        font-size: 20px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .card-images{
+        border-radius: 8px;
+
+    }
+    .skill-description{
+        color: #757575;
+        }
+/* resume styles */
