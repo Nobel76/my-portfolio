@@ -133,6 +133,7 @@ main{
         border-radius: 5px;
         padding: 30px;
     }
+  
     .skill-title{
         font-weight: 700;
         font-size: 20px;
@@ -192,4 +193,50 @@ main{
         border-radius: 5px;
         background: #FD6E0A;
         margin-top: 50px;
+    }
+    /* footer */
+    footer{
+        margin-top: 113px;
+        display: flex;
+        justify-content: space-evenly;
+        background: #FFF8F3;
+       
+    }
+.footer-title{
+        font-weight: 700;
+        font-size: 24px;
+        margin-bottom: 8px;
+
+    }
+    .social-images{
+        margin-top: 16px;
+    
+    }
+    .footer-group{
+        margin-top: 120px;
+        margin-bottom: 50px;
+    }
+    #field{
+        width: 461px;
+height: 64px;
+font-size: large;
+padding: 8px;
+margin: 10px;
+border: 0;
+    }
+    .btn-submit{
+        color: #FFFFFF;
+        font-weight: 700;
+        border: 0;
+        padding: 18px 35px;
+        font-size: 20px;
+        height: 64px;
+        border-radius: 5px;
+        background: #FD6E0A;
+        margin-top: 50px;
+        
+    }
+    .btn-submit:hover{
+        
+        background: aqua;
     }
